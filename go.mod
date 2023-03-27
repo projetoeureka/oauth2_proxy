@@ -6,7 +6,7 @@ require (
 	github.com/BurntSushi/toml v1.2.1
 	github.com/bitly/go-simplejson v0.5.0
 	github.com/bmizerany/assert v0.0.0-20160611221934-b7ed37b82869
-	github.com/mreiferson/go-options v1.0.0
+	github.com/mreiferson/go-options v0.0.0-20141109055629-ee94b57f2fbf
 	golang.org/x/oauth2 v0.6.0
 	google.golang.org/api v0.114.0
 	gopkg.in/fsnotify.v1 v1.4.7
